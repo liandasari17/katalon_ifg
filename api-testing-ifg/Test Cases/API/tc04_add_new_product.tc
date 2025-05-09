@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc04_add_new_product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b1cb8cd-a1d7-43aa-8516-21f928b9d1d8</testCaseGuid>
+</TestCaseEntity>

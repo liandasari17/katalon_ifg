@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc05_delete_product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>510bbc1a-86c6-4c7c-9e75-5b216182f15b</testCaseGuid>
+</TestCaseEntity>
