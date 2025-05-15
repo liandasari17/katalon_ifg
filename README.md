@@ -1,6 +1,6 @@
 # 📦 Katalon IFG Testing Project
 
-Project ini merupakan kumpulan automated test berbasis [Katalon Studio](https://www.katalon.com/) untuk pengujian fitur API dan integrasi Kafka pada sistem IFG.
+Proyek ini merupakan pengujian otomatis menggunakan Katalon Studio untuk menguji fitur REST API dan integrasi message queue dengan menggunakan Apache Kafka.
 
 ---
 
